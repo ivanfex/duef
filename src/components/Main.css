@@ -1,0 +1,31 @@
+.Main {
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+  }
+  
+.title {
+      font-weight: 900;
+      font-size: 320px;
+      color: #f4531d;
+  }
+
+.duef {
+    margin-top: 24px;
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 72px;
+    height: 72px;
+}
+
+.duef:hover {
+   cursor: pointer;
+}
+
+p:hover {
+    cursor: pointer;
+}
+
+.du {
+    color: #1170c4;
+}
