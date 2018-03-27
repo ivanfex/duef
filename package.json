@@ -2,7 +2,7 @@
   "name": "duef",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ivanfex.github.io/duef",
+  "homepage": "https://ivanfex.github.io/duef/",
   "dependencies": {
     "bootstrap": "^4.0.0",
     "firebase": "^4.11.0",
